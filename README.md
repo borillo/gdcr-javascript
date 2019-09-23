@@ -1,6 +1,6 @@
 # GameOfLive preset for JavaScript
 
-This is a bootstrap project intented to be used in the Global Day of the Code Retreat.
+This is a bootstrap project intented to be used in the [Global Day of the Code Retreat](https://www.coderetreat.org/).
 It's configured for using the [Jest](https://jestjs.io/) test runner.
 
 In order to start coding, first install the project dependencies:
